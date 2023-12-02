@@ -1,0 +1,36 @@
+*.py[co]
+*.pyc
+*.*~
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+econopy.egg-info
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+.pytest_cache/
+.cov_html/
+coverage.xml
+
+#Translations
+*.mo
+
+#Mr Developer
+.mr.developer.cfg
+.vscode/
+
+# Docs
+docs/_build
